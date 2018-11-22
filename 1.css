@@ -1,0 +1,43 @@
+body{
+    background-color: aliceblue;
+}
+ol{
+    color: deeppink;
+}
+h1{
+    color:fuchsia
+}
+h2{color:chartreuse}
+
+
+#header{
+    width: 100%;
+    height: 200px;
+    background-color: deepskyblue
+}
+#menu{
+    width: 15%;
+    height: 500px;
+    background-color: darkviolet;
+    float: left;
+}
+#page1{
+    width:40%;
+    height: 500px;
+    background-color: burlywood;
+    float: left
+    
+}
+#page2{
+    width:45%;
+    height:350px;
+    background-color: brown;
+    float: right
+}
+#page3{
+    width:45%;
+    height:150px;
+    background-color:darkorange;
+    float:right
+    
+}
